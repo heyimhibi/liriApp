@@ -1,0 +1,4 @@
+# any file listed in this page will be ignored by git
+node_modules
+.env
+.DS_Store
