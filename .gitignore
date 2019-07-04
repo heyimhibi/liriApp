@@ -1,4 +1,4 @@
-# any file listed in this page will be ignored by git
+# any file listed in this page will be ignored by git modules, environments, ds_stores are hidden files in mac (. in front)
 node_modules
 .env
 .DS_Store
